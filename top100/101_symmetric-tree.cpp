@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 15:04:38
- * @Description: 
- * @Ref: 
+ * @Description: Easy - 对称二叉树
+ * @Ref: https://leetcode-cn.com/problems/symmetric-tree/
  */
 
 #include <iostream>

@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 15:02:00
- * @Description: 
- * @Ref: 
+ * @Description: Medium - 颜色分类
+ * @Ref: https://leetcode-cn.com/problems/sort-colors/
  */
 
 #include <iostream>

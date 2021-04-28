@@ -1,4 +1,9 @@
-
+/*** 
+ * @Author: gjwu
+ * @Date: 2021-04-27 15:10:12
+ * @Description: Hard - 二叉树中的最大路径和
+ * @Ref: https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/
+ */
 
 #include <iostream>
 

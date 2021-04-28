@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 14:53:03
- * @Description: 
- * @Ref: 
+ * @Description: Easy - 两数之和
+ * @Ref: https://leetcode-cn.com/problems/two-sum/
  */
 
 #include<iostream>

@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 14:56:22
- * @Description: 
- * @Ref: 
+ * @Description: Medium - 无重复字符的最长子串
+ * @Ref: https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
  */
 
 #include <iostream>

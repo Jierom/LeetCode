@@ -1,7 +1,7 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 13:36:42
- * @Description: 正则表达式匹配
+ * @Description: Hard - 正则表达式匹配
  * @Ref: https://leetcode-cn.com/problems/regular-expression-matching/
  */
 

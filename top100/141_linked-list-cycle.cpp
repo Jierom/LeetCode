@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 15:11:46
- * @Description: 
- * @Ref: 
+ * @Description: Easy - 环形链表
+ * @Ref: https://leetcode-cn.com/problems/linked-list-cycle/
  */
 
 #include <iostream>

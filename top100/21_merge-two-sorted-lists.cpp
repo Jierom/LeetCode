@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 14:58:35
- * @Description: 
- * @Ref: 
+ * @Description: Easy - 合并两个有序链表
+ * @Ref: https://leetcode-cn.com/problems/merge-two-sorted-lists/
  */
 
 #include <iostream>

@@ -1,3 +1,9 @@
+/*** 
+ * @Author: gjwu
+ * @Date: 2021-04-27 13:31:36
+ * @Description: Easy - 有效的括号
+ * @Ref: https://leetcode-cn.com/problems/valid-parentheses/
+ */
 
 #include <iostream>
 #include <stack>

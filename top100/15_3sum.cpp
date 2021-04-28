@@ -1,7 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 13:31:36
- * @Description: https://leetcode-cn.com/problems/regular-expression-matching/
+ * @Description: Medium - 三数之和
+ * @Ref: https://leetcode-cn.com/problems/regular-expression-matching/
  */
 
 #include<iostream>

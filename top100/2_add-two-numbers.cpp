@@ -1,3 +1,9 @@
+/*** 
+ * @Author: gjwu
+ * @Date: 2021-04-27 14:53:03
+ * @Description: Easy - 两数相加
+ * @Ref: https://leetcode-cn.com/problems/add-two-numbers/
+ */
 
 #include<iostream>
 
@@ -32,4 +38,4 @@ public:
         }
         return root->next;
     }
-}
+};

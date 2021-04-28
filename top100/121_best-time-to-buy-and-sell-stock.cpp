@@ -1,8 +1,8 @@
 /*** 
  * @Author: gjwu
  * @Date: 2021-04-27 15:10:12
- * @Description: 
- * @Ref: 
+ * @Description: Easy - 买卖股票的最佳时机
+ * @Ref: https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
  */
 
 #include <iostream>
